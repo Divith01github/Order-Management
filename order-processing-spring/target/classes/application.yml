@@ -1,0 +1,11 @@
+server:
+  port: 8080
+
+ingest:
+  on-start: true
+  file: classpath:events.ndjson   # <--- always load from resources folder
+
+logging:
+  level:
+    root: INFO
+    com.example.orderprocessing: INFO
