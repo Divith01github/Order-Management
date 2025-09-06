@@ -1,6 +1,6 @@
 # 🛒 Order Processing System
 
-A simplified event-driven order processing system built using both **Plain Java** and **Spring Boot**. This project demonstrates core backend concepts such as request handling, validation, and modular service design—ideal for showcasing clean architecture and real-world backend skills.
+A simplified event-driven order processing system built using both **Plain Java** and **Spring Boot**. 
 
 ---
 
