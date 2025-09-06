@@ -20,5 +20,3 @@ A simplified event-driven order processing system built using both **Plain Java*
 
 ---
 
-## 📁 Project Structure
-
